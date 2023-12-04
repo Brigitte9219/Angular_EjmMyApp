@@ -12,4 +12,6 @@ frase: any = {
   mensaje: 'Un gran poder requiere una gran responsabilidad',
   autor: 'Ben Parker'
 };
+
+personajes: string[]= ['Spiderman', 'Venom', 'Dr. Octopus']
 }
